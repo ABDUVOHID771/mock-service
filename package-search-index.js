@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"uz.davrbank.integration.mock"},{"l":"uz.davrbank.integration.mock.api"},{"l":"uz.davrbank.integration.mock.config"},{"l":"uz.davrbank.integration.mock.dto"},{"l":"uz.davrbank.integration.mock.generator"},{"l":"uz.davrbank.integration.mock.utils"}]
